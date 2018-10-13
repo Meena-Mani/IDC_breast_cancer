@@ -4,6 +4,8 @@ Classification of IDC in breast cancer histology images
 ### Data Description
 IDC breast cancer data is available in different repositories. We use the [Invasive Ductal Carcinoma (IDC) breast cancer dataset](https://www.kaggle.com/paultimothymooney/breast-histopathology-images) on Kaggle. This dataset consists of 277,524 50x50 image patches extracted from 162 whole slide images. The IDC(-/+) ratio is 2:1.
 
+We need to organize the data in accordance with the Keras data directory structure (i.e. data/train/class, data/val/class). The [make_directory.py](https://github.com/Meena-Mani/IDC_breast_cancer/blob/master/make_directory.py) script is used for this.
+
 ### Project 1
 #### [Experiments with learning rates:  cyclical, 1cycle, fixed, range test](https://github.com/Meena-Mani/IDC_breast_cancer/blob/master/FT_LR_experiments.ipynb)
 The learning rate is the most important tuning parameter in a deep learning system. In this exercise we look at the use of cyclical learning rates to train faster. This follows the work of Leslie Smith <a href="#ref1">[1]</a>, <a href="#ref2">[2]</a> and has been popularized by its inclusion in the FastAI deep learning course and library <a href="#ref3">[3]</a>. 
