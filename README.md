@@ -17,5 +17,5 @@ We will report on three learning rate experiments: (i) Cyclical Learning Rate, (
 <a name="ref2"></a>[2] [Leslie N. Smith. (2018). A disciplined approach to neural network hyper-parameters: Part 1 -- learning rate, batch size, momentum, and weight decay.  CoRR abs/1803.09820 (2018)](https://arxiv.org/abs/1803.09820)  
 <a name="ref3"></a>[3] [Jeremy Howard and others. (2018) fastai. On Github](https://github.com/fastai/fastai)     
 <a name="ref4"></a>[4] [Brad Kentsler. (2018) CLR. On Github](https://github.com/bckenstler/CLR)   
-<a name="ref4"></a>[5] [Janowczyk A, Madabhushi A. (2016). Deep learning for digital pathology image analysis: A comprehensive tutorial with selected use cases. J Pathol Inform. 2016.](https://www.ncbi.nlm.nih.gov/pubmed/27563488)   
-<a name="ref4"></a>[6] [Cruz-Roa A. et. al. (2014). Proc. SPIE 9041, Medical Imaging 2014: Digital Pathology, 904103](http://spie.org/Publications/Proceedings/Paper/10.1117/12.2043872)
+<a name="ref5"></a>[5] [Janowczyk A, Madabhushi A. (2016). Deep learning for digital pathology image analysis: A comprehensive tutorial with selected use cases. J Pathol Inform. 2016.](https://www.ncbi.nlm.nih.gov/pubmed/27563488)   
+<a name="ref6"></a>[6] [Cruz-Roa A. et. al. (2014). Proc. SPIE 9041, Medical Imaging 2014: Digital Pathology, 904103](http://spie.org/Publications/Proceedings/Paper/10.1117/12.2043872)
